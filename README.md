@@ -1,0 +1,1 @@
+# Speed-typing-calculator-in-JS
